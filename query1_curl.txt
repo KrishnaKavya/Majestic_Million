@@ -1,0 +1,4 @@
+ time curl --data "name=google.com"  http://csgrads1.utdallas.edu:5020/query1result
+
+ time curl --data "name=facebook.com" http://csgrads1.utdallas.edu:5020/query1result
+

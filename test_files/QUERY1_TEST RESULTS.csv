@@ -1,0 +1,62 @@
+query1_no_idx_1,,,,,,,,,,,
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/sec
+query1_no_idx,1,104,104,104,104,104,104,104,0,9.433962264,3.75884434
+TOTAL,1,104,104,104,104,104,104,104,0,9.433962264,3.75884434
+,,,,,,,,,,,
+query1_no_idx_10,,,,,,,,,,,
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/sec
+query1_no_idx,10,230,149,389,389,477,93,487,0,9.478672986,3.776658768
+TOTAL,10,230,149,389,389,477,93,487,0,9.478672986,3.776658768
+,,,,,,,,,,,
+query1_no_idx_50,,,,,,,,,,,
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/sec
+query1_no_idx,50,113,103,152,178,220,77,220,0,45.24886878,18.02884615
+TOTAL,50,113,103,152,178,220,77,220,0,45.24886878,18.02884615
+,,,,,,,,,,,
+query1_idx1_1,,,,,,,,,,,
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/sec
+query1_idx1,1,82,82,82,82,82,82,82,0,12.19512195,4.942358994
+TOTAL,1,82,82,82,82,82,82,82,0,12.19512195,4.942358994
+,,,,,,,,,,,
+,,,,,,,,,,,
+query1_idx1_10,,,,,,,,,,,
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/sec
+query1_idx1,10,104,94,133,133,158,81,158,0,9.794319295,3.969377449
+TOTAL,10,104,94,133,133,158,81,158,0,9.794319295,3.969377449
+,,,,,,,,,,,
+,,,,,,,,,,,
+query1_idx1_50,,,,,,,,,,,
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/sec
+query1_idx1,50,128,117,177,194,232,83,236,0,45.12635379,18.28851252
+TOTAL,50,128,117,177,194,232,83,236,0,45.12635379,18.28851252
+,,,,,,,,,,,
+,,,,,,,,,,,
+query1_idx2_1,,,,,,,,,,,
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/sec
+query1_idx2,1,86,86,86,86,86,86,86,0,11.62790698,4.712481831
+TOTAL,1,86,86,86,86,86,86,86,0,11.62790698,4.712481831
+,,,,,,,,,,,
+query1_idx2_10,,,,,,,,,,,
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/sec
+query1_idx2,10,90,85,103,103,104,82,104,0,9.920634921,4.020569816
+TOTAL,10,90,85,103,103,104,82,104,0,9.920634921,4.020569816
+,,,,,,,,,,,
+query1_idx2_50,,,,,,,,,,,
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/sec
+query1_idx2,40,116,111,156,168,176,78,176,0,45.00450045,18.2391286
+TOTAL,40,116,111,156,168,176,78,176,0,45.00450045,18.2391286
+,,,,,,,,,,,
+query1_idx3_1,,,,,,,,,,,
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/sec
+query1_idx3,1,93,93,93,93,93,93,93,0,10.20408163,4.13544324
+TOTAL,1,93,93,93,93,93,93,93,0,10.20408163,4.13544324
+,,,,,,,,,,,
+query1_idx3_10,,,,,,,,,,,
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/sec
+query1_idx3,10,95,89,109,109,119,81,119,0,10.04016064,4.069010417
+TOTAL,10,95,89,109,109,119,81,119,0,10.04016064,4.069010417
+,,,,,,,,,,,
+query1_idx3_50,,,,,,,,,,,
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/sec
+query1_idx3,50,113,96,165,203,238,76,238,0,44.76275739,18.14115656
+TOTAL,50,113,96,165,203,238,76,238,0,44.76275739,18.14115656

@@ -1,0 +1,16 @@
+time /opt/oracle/app/csoracle/product/12.1.0/dbhome_1/bin/sqlldr kxm152630/123456 
+ctl= majestic_million.ctl
+
+
+time /opt/oracle/app/csoracle/product/12.1.0/dbhome_1/bin/sqlldr kxm152630/123456
+ctl= majestic_million1.ctl
+
+
+
+time /opt/oracle/app/csoracle/product/12.1.0/dbhome_1/bin/sqlldr kxm152630/123456
+ctl= majestic_million2.ctl
+
+
+
+time /opt/oracle/app/csoracle/product/12.1.0/dbhome_1/bin/sqlldr kxm152630/123456
+ctl= majestic_million3.ctl

@@ -1,0 +1,1 @@
+ time curl --data "name=com" http://csgrads1.utdallas.edu:5020/result
