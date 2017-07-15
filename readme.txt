@@ -3,7 +3,7 @@ Procedure to execute the assignment :
 
 Login deatils for oracle :
 username : kxm152630
-password : 123456
+password : ******
 
 1)start clean_data.sql  to clean up the database 
 2)start majestic_schema.sql  to create the database and add the indexes
